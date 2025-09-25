@@ -1,0 +1,2 @@
+I do remember we used code dim as a variable 
+Like my val in JavaScript
